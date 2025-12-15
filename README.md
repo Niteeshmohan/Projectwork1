@@ -1,4 +1,4 @@
-## Title of the Project
+## FARM2FUTURE AI-DRIVEN PRICE PREDICTION FOR ESSENTIAL COMMODITIES
 Small description about the project like one below
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
